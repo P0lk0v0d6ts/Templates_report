@@ -1,8 +1,6 @@
 # Templates_report
-Templates and examples reports
+Шаблоны, чеклисты и примеры отчетов по тестированию
 
-## Content
+## Содержимое
 
 
-## What is this for?
-It's help write standardized reports 
